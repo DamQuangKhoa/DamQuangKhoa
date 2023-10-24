@@ -7,7 +7,7 @@ A Software Engineering
 I'm a Software Engineering have 5+ years of experiences in Web and Mobile Development. I'm hard working, keep commitment, quickly adapt and passion on learning new things <3
 
 * 🌍  I'm based in HCM City, Viet Nam
-* 🖥️  See my portfolio at [khoadam](http://khoadam.info/developer)
+* 🖥️  See my portfolio at [resume](https://damquangkhoa.github.io/resume/)
 * ✉️  You can contact me at [dqkhoa02@gmail.com](mailto:dqkhoa02@gmail.com)
 * 🚀  I'm currently working on [LINE Technology Corporation](http://https://linecorp.com/en/)
 * 🧠  I'm learning BE, FE, DevOps, Cloud Architecture
